@@ -6,4 +6,5 @@
 <p>For this purpose <strong>Computer Vision</strong> can play a vital role in automating the surveillance process via real-time feed from cctv cameras that are already installed on various sites of the (accident prone) working area/field. The model works on detecting an object i.e humans presence in the frame and then detects whether the human is wearing the hard hat or not by providing a visual bounding box around the hard hat (or head) is present and giving a probability value between 0 and 1. This can help alert the management beforehand about the lackadaisical and negligence of workers, which can then take necessary and suitable actions and thereby prevent any major accidents.</p></br>
 <div align="centre">
   <img width="400" src="https://www.ppeindustrialsupplies.co.uk/IMG/arton122.jpg">
+  <img width="400" src="https://images1.programmersought.com/80/f4/f4d7239557e37ddc7715fb4bb38f01e0.JPEG">
 </div>
